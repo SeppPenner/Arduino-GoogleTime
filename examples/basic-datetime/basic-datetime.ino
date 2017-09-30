@@ -1,5 +1,5 @@
 #include <ESP8266WiFi.h>
-#include "GoogleTime.h"
+#include <GoogleTime.h>
 
 // optional timeout
 // #define GOOGLETIME_TIMEOUT 1000
